@@ -1,0 +1,23 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "Node JS Todo WebApp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatin0104/todoApp.git"
+  },
+  "author": "Jatin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatin0104/todoApp/issues"
+  },
+  "homepage": "https://github.com/jatin0104/todoApp#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
